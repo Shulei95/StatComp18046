@@ -10,8 +10,6 @@ Imports: microbenchmark, knitr, rmarkdown, MASS, bootstrap, boot, DAAG, RANN, en
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
-Suggests: 
-    knitr,
-    rmarkdown
+Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 URL: https://github.com/Shulei95/StatComp18046
