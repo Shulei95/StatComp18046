@@ -1,5 +1,5 @@
 ---
-title: "Introduction to StatComp"
+title: "Introduction to StatComp18046"
 author: "Lei Shu"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
